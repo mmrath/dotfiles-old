@@ -1,0 +1,99 @@
+[submodule "vim/.vim/bundle/HTML-AutoCloseTag"]
+	path = vim/.vim/bundle/HTML-AutoCloseTag
+	url = https://github.com/amirh/HTML-AutoCloseTag.git
+[submodule "vim/.vim/bundle/Lightning"]
+	path = vim/.vim/bundle/Lightning
+	url = https://github.com/wimstefan/Lightning.git
+[submodule "vim/.vim/bundle/beauty256"]
+	path = vim/.vim/bundle/beauty256
+	url = https://github.com/vim-scripts/beauty256.git
+[submodule "vim/.vim/bundle/ctrlp.vim"]
+	path = vim/.vim/bundle/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "vim/.vim/bundle/fonts"]
+	path = vim/.vim/bundle/fonts
+	url = https://github.com/powerline/fonts.git
+[submodule "vim/.vim/bundle/jellybeans.vim"]
+	path = vim/.vim/bundle/jellybeans.vim
+	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "vim/.vim/bundle/materialbox"]
+	path = vim/.vim/bundle/materialbox
+	url = https://github.com/mkarmona/materialbox.git
+[submodule "vim/.vim/bundle/molokai"]
+	path = vim/.vim/bundle/molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "vim/.vim/bundle/neobundle.vim"]
+	path = vim/.vim/bundle/neobundle.vim
+	url = https://github.com/Shougo/neobundle.vim
+[submodule "vim/.vim/bundle/neocomplete.vim"]
+	path = vim/.vim/bundle/neocomplete.vim
+	url = https://github.com/Shougo/neocomplete.vim.git
+[submodule "vim/.vim/bundle/neosnippet"]
+	path = vim/.vim/bundle/neosnippet
+	url = https://github.com/Shougo/neosnippet.git
+[submodule "vim/.vim/bundle/neosnippet-snippets"]
+	path = vim/.vim/bundle/neosnippet-snippets
+	url = https://github.com/Shougo/neosnippet-snippets.git
+[submodule "vim/.vim/bundle/nerdtree"]
+	path = vim/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim/.vim/bundle/swift.vim"]
+	path = vim/.vim/bundle/swift.vim
+	url = https://github.com/keith/swift.vim.git
+[submodule "vim/.vim/bundle/syntastic"]
+	path = vim/.vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vim/.vim/bundle/vim-airline"]
+	path = vim/.vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim/.vim/bundle/vim-airline-themes"]
+	path = vim/.vim/bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "vim/.vim/bundle/vim-autoformat"]
+	path = vim/.vim/bundle/vim-autoformat
+	url = https://github.com/Chiel92/vim-autoformat.git
+[submodule "vim/.vim/bundle/vim-bufferline"]
+	path = vim/.vim/bundle/vim-bufferline
+	url = https://github.com/bling/vim-bufferline.git
+[submodule "vim/.vim/bundle/vim-colors-solarized"]
+	path = vim/.vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/.vim/bundle/vim-colorscheme-primary"]
+	path = vim/.vim/bundle/vim-colorscheme-primary
+	url = https://github.com/google/vim-colorscheme-primary.git
+[submodule "vim/.vim/bundle/vim-commentary"]
+	path = vim/.vim/bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "vim/.vim/bundle/vim-css3-syntax"]
+	path = vim/.vim/bundle/vim-css3-syntax
+	url = https://github.com/hail2u/vim-css3-syntax.git
+[submodule "vim/.vim/bundle/vim-fugitive"]
+	path = vim/.vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim/.vim/bundle/vim-go"]
+	path = vim/.vim/bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "vim/.vim/bundle/vim-hybrid"]
+	path = vim/.vim/bundle/vim-hybrid
+	url = https://github.com/w0ng/vim-hybrid.git
+[submodule "vim/.vim/bundle/vim-indent-guides"]
+	path = vim/.vim/bundle/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "vim/.vim/bundle/vim-javascript"]
+	path = vim/.vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim/.vim/bundle/vim-json"]
+	path = vim/.vim/bundle/vim-json
+	url = https://github.com/elzr/vim-json.git
+[submodule "vim/.vim/bundle/vim-markdown"]
+	path = vim/.vim/bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "vim/.vim/bundle/vim-monokai"]
+	path = vim/.vim/bundle/vim-monokai
+	url = https://github.com/sickill/vim-monokai.git
+[submodule "vim/.vim/bundle/vim-snippets"]
+	path = vim/.vim/bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "vim/.vim/bundle/vim-toml"]
+	path = vim/.vim/bundle/vim-toml
+	url = https://github.com/cespare/vim-toml.git
