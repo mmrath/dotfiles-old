@@ -20,8 +20,6 @@ brew install gnu-sed --with-default-names
 # Note: don’t forget to add `/usr/local/bin/bash` to `/etc/shells` before
 # running `chsh`.
 brew install bash
-brew tap homebrew/versions
-brew install bash-completion2
 
 brew install zsh
 
@@ -46,6 +44,9 @@ brew install git
 brew install ack
 brew install youtube-dl
 brew install openssl
+
+brew install maven
+brew install gradle
 
 brew cask install iterm2
 
