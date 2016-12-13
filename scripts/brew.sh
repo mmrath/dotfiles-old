@@ -44,11 +44,7 @@ brew install git
 brew install ack
 brew install youtube-dl
 brew install openssl
-
-brew install maven
-brew install gradle
-
-brew cask install iterm2
+brew install yarn
 
 # Remove outdated versions from the cellar.
 brew cleanup
